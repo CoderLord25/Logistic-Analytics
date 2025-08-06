@@ -1,55 +1,66 @@
-Logistics Analytics – Data-Driven Supply Chain Optimization
-🧭 Introduction
+# Logistics Analytics – Data-Driven Supply Chain Optimization
+
+---
+
+## Introduction
 This project was developed as part of an academic data analytics challenge focusing on the logistics and e-commerce sector. Using a real-world transactional dataset, the project aimed to analyze delivery performance, customer behavior, and product trends to uncover operational inefficiencies and provide actionable business insights. The outcome was a series of Power BI dashboards that visualize key logistics metrics and support data-driven decisions.
 
-🎯 Project Objectives
+---
+
+## Project Objectives
 The main objectives of this project were to:
 
-Analyze delivery performance based on region and delivery status
++ Analyze delivery performance based on region and delivery status
 
-Identify top-selling product categories and their delivery challenges
++ Identify top-selling product categories and their delivery challenges
 
-Evaluate customer job segmentation and their purchasing behaviors
++ Evaluate customer job segmentation and their purchasing behaviors
 
-Detect seasonal trends in sales volume and order values
++ Detect seasonal trends in sales volume and order values
 
-Provide business recommendations to optimize delivery strategies and product inventory
++ Provide business recommendations to optimize delivery strategies and product inventory
 
-📦 Dataset
+---
+
+## Dataset
 Data Sources:
 ITBLogisticDataset.csv: Cleaned dataset extracted from a logistics platform for dashboard analysis
 
 Key Attributes:
-Order Details: Order ID, Product Category, Delivery Status, Quantity, Price, Order Date
++ Order Details: Order ID, Product Category, Delivery Status, Quantity, Price, Order Date
 
-Customer Info: Job title, Location
++ Customer Info: Job title, Location
 
-Shipping Info: Scheduled shipping days, Actual shipping days, Region
++ Shipping Info: Scheduled shipping days, Actual shipping days, Region
 
-🧪 Methods & Analysis
+---
+
+## Methods & Analysis
 Data cleaning and preprocessing were conducted using Python (Pandas). Data visualization and interactive dashboards were built with Power BI.
 
 Key analytical techniques included:
 
-Descriptive statistics (total orders, revenue, average value per order)
++ Descriptive statistics (total orders, revenue, average value per order)
 
-Delivery performance analysis by region and delivery status
++ Delivery performance analysis by region and delivery status
 
-Category-level sales concentration and Pareto analysis
++ Category-level sales concentration and Pareto analysis
 
-Customer segmentation by job type
++ Customer segmentation by job type
 
-Time series analysis for monthly sales and late delivery trends
++ Time series analysis for monthly sales and late delivery trends
 
-You can open the Power BI dashboard with the LogisticsDashboard.pbix file.
++ You can open the Power BI dashboard with the LogisticsDashboard.pbix file.
 
-🔍 Key Insights
+---
+
+## Key Insights
 1. Delivery Performance by Region
 Southern Vietnam had the highest proportion of on-time deliveries.
 
 Northern Vietnam faced higher rates of late deliveries.
 
-🧠 Strategy: Investigate logistics partners in the North and improve coordination.
+Strategy: Investigate logistics partners in the North and improve coordination.
 
 2. Product Category vs. Delivery
 Some popular categories (e.g., Household Goods, Beverages) had high late delivery rates.
@@ -71,16 +82,16 @@ Beverages and Beauty Products were top sellers.
 
  Strategy: Monitor delivery timeliness closely for these high-demand items.
 
-📘 Learning Outcomes
+ ---
+
+## Learning Outcomes
+
 Through this project, we learned to:
 
-Perform end-to-end data analysis from raw CSV files to actionable insights
++ Perform end-to-end data analysis from raw CSV files to actionable insights
 
-Use Python for data wrangling and preparation
++ Use Python for data wrangling and preparation
 
-Build professional dashboards in Power BI for logistics analytics
++ Build professional dashboards in Power BI for logistics analytics
 
-Identify bottlenecks and opportunities in e-commerce supply chains
-
-📞 Contact
-Team DataLogix – 2025
++ Identify bottlenecks and opportunities in e-commerce supply chains

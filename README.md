@@ -23,8 +23,9 @@ The main objectives of this project were to:
 ---
 
 ## Dataset
-Data Sources:
-ITBLogisticDataset.csv: Cleaned dataset extracted from a logistics platform for dashboard analysis
+### Data Sources:
+
+**File:** `ITBLogisticDataset.xlsx`: Cleaned dataset extracted from a logistics platform for dashboard analysis
 
 Key Attributes:
 + Order Details: Order ID, Product Category, Delivery Status, Quantity, Price, Order Date
